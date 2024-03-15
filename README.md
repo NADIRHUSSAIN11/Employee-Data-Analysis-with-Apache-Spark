@@ -31,7 +31,7 @@ This project is aimed at analyzing employee data using Apache Spark components. 
 
 ## File Structure
 
-- **employee_data_analysis.py**: Main script for performing data analysis tasks.
+- **employee_data_analysis.pynb**: Main script for performing data analysis tasks.
 - **employee_data.csv**: Sample CSV file containing employee data.
 - **README.md**: Documentation for the project.
 
